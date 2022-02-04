@@ -7,7 +7,6 @@ voila==0.3.0
 async_generator==1.10
 attr==0.3.0
 backcall==0.2.0
-brotli==NA
 certify==2020.06.20
 chardet==3.0.4
 colorama==0.4.4
