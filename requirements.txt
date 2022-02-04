@@ -16,11 +16,7 @@ nbclient==0.5.1
 nbconvert==6.0.7
 nbformat==5.0.8
 numpy==1.19.2
-pywintypes==NA
 requests==2.24.0
-win32api==NA
-win32com==NA
-win32security==NA
 IPython==7.19.0
 jupyter_client==6.1.7
 jupyter_core==4.6.3
