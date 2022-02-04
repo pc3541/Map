@@ -15,7 +15,7 @@ colorama==0.4.4
 cython_runtime==NA
 dateutil===2.8.1
 decorator==4.4.2
-defusedxml=0.6.0
+defusedxml==0.6.0
 entrypoints==0.3
 idna==2.10
 ipykernel==5.3.4
