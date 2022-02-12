@@ -3,12 +3,3 @@ folium
 ipywidgets
 pandas
 voila
-nbclient
-nbconvert
-nbformat
-numpy
-IPython
-jupyter_client
-jupyter_core
-jupyterlab
-notebook
